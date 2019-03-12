@@ -4,3 +4,4 @@ Creating a new branch and simple
 fasr forward & no-ff
 yi lian meng bi
 no-ff
+stash
